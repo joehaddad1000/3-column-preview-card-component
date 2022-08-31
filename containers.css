@@ -1,0 +1,24 @@
+.container {
+  max-width: 100%;
+  margin: 40px;
+  display: flexbox;
+  flex-direction: column;
+  color: hsl(0, 0%, 95%);
+}
+
+.container h1 {
+  font-size: 2.5rem;
+  margin-block: 20px;
+  font-family: 'Big Shoulders Display', cursive;
+}
+
+.container p {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: font-family: 'Lexend Deca', sans-serif;
+}
+
+.c1 {
+  border-radius: 10px;
+  padding: 50px;
+  background-color: hsl(31, 77%, 52%);
+}
