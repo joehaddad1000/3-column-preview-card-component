@@ -18,21 +18,39 @@
   font-family: 'Lexend Deca', sans-serif;
   margin-block-end: 50px;
 }
+
 .container a {
   box-sizing: border-box;
   padding-block: 15px;
   padding-inline: 20px;
   color: hsl(31, 77%, 52%);
   background-color: hsla(235, 0%, 100%, 1);
-  border-radius: 40px;
   font-size: 18px;
   text-decoration: none;
   text-align: center;
   font-family: 'Lexend Deca', sans-serif;
+  border-radius: 40px;
 }
 
-.c1 {
-  border-radius: 10px;
-  padding: 50px;
+.c {
+  padding: 40px;
   background-color: hsl(31, 77%, 52%);
 }
+
+.suvs {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.suvs a {
+  color: hsl(184, 100%, 22%);
+}
+
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+}
+
+.luxury a {
+  color: hsl(179, 100%, 13%);
+}
+
