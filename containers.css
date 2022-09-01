@@ -14,7 +14,21 @@
 
 .container p {
   color: hsla(0, 0%, 100%, 0.75);
-  font-family: font-family: 'Lexend Deca', sans-serif;
+  font-size: 16px;
+  font-family: 'Lexend Deca', sans-serif;
+  margin-block-end: 50px;
+}
+.container a {
+  box-sizing: border-box;
+  padding-block: 15px;
+  padding-inline: 20px;
+  color: hsl(31, 77%, 52%);
+  background-color: hsla(235, 0%, 100%, 1);
+  border-radius: 40px;
+  font-size: 18px;
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Lexend Deca', sans-serif;
 }
 
 .c1 {
