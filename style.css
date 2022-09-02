@@ -5,6 +5,7 @@
 }
 
 body {
+  scroll-behavior: smooth;
   background-color: rgb(242,242,242);
  font-size: 15px;
  min-height: 100vh;
