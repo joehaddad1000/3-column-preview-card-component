@@ -42,12 +42,31 @@
   border-top-right-radius: 10px;
 }
 
+.sedans a {
+  transition: .4s ease;
+}
+
+.sedans a:hover {
+  cursor: pointer;
+  color: white;
+  background-color: hsl(31, 77%, 52%);
+  border: 2px solid white;
+}
+
 .suvs {
   background-color: hsl(184, 100%, 22%);
 }
 
 .suvs a {
   color: hsl(184, 100%, 22%);
+  transition: .4s ease;
+}
+
+.suvs a:hover {
+  cursor: pointer;
+  color: white;
+  background-color: hsl(184, 100%, 22%);
+  border: 2px solid white;
 }
 
 
@@ -59,4 +78,12 @@
 
 .luxury a {
   color: hsl(179, 100%, 13%);
+  transition: .4s ease;
+}
+
+.luxury a:hover {
+  cursor: pointer;
+  color: white;
+  background-color: hsl(179, 100%, 13%);
+  border: 2px solid white;
 }
